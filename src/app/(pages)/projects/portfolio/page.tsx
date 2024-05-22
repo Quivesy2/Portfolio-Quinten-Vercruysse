@@ -10,7 +10,7 @@ export default function Portfolio() {
             <div className="container px-4 space-y-6 md:space-y-8 lg:space-y-10">
                 <ProjectLayout title={"Portfolio"} description={"Een detail page van dit portfolio"}
                                framework={"NextJs"}
-                               url={"https://github.com/Quivesy2/Portfolio-NextJs"}/>
+                               url={"https://github.com/Quivesy2/Portfolio-Quinten-Vercruysse"}/>
 
                 <LanguageScore language={"TypeScript"} percentage={98.1} color={"blue"}/>
                 <LanguageScore language={"CSS"} percentage={1.7} color={"purple"}/>
